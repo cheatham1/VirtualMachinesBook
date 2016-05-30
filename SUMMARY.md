@@ -5,5 +5,5 @@
 * [prepare VirtualBox](preparevb_md.md)
 * [Get and Run the Virtual Machine](get_and_run_the_virtual_machine.md)
 * [Inside The Virtual Machine](inside_the_virtual_machine.md)
-* Prepare the VirtualBox
+* [Prepare the VirtualBox](prepare_the_virtualbox.md)
 
