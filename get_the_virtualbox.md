@@ -7,7 +7,7 @@
 
 Use the website [VirtualBox](https://www.virtualbox.org/) or **simply use the window below to browse the website** ( _and download the software_ )
 
-# ![Image](../pictures/Screenshot_2015-02-02_22.28.09.png)
+![Image](../pictures/Screenshot_2015-02-02_22.28.09.png)
 
 
 
