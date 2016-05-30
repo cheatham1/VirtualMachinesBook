@@ -20,9 +20,11 @@ III. Other Standard Linux folders
 
 ![](pictures/Screenshot_2015-02-03_15.36.28.png)
 
-Going into the ATLAS folder you will find the next _relevant for us_ structure:
+Going into the ATLAS folder you will find the structure:
 
 To be fixed:
+
+
 ATLAS
   |
   ---- AnalysisBase     ## Our workspace place with the ATLAS Analysis software
@@ -65,7 +67,7 @@ At this point you can start to work with the instructions in the Tutorial (_copy
 
 ![](pictures/Screenshot_2015-02-03_16.17.42.png)
 
-You can take a look to the **xAOD** file too as it is mention in the tutorial, but browsing the file locally!
+You can take a look to the **xAOD** file too as it is mentioned in the tutorial, but browsing the file locally!
 
 ![](pictures/Screenshot_2015-02-03_01.00.00.png)
 
