@@ -5,12 +5,14 @@
 
 
 
+
 In order to obtain the **VDI** file of our **VM-SL6.7**, we need to be sure that our host system has space for that.  At least **30GB** of space should be reserved for this.
 
-To download the compressed file just [[https://arturos.web.cern.ch/arturos/ATLAS/outreach/vm/OutReach/vm/ScientificLinux67_ATLAS_Outreach_Tutorial_CERN_2016-disk1.vdi.gz]
+To download the compressed file [[https://arturos.web.cern.ch/arturos/ATLAS/outreach/vm/OutReach/vm/ScientificLinux67_ATLAS_Outreach_Tutorial_CERN_2016-disk1.vdi.gz]
 [click here]].
 
-You can use the "[[https://arturos.web.cern.ch/arturos/ATLAS/outreach/vm/OutReach/vm/][window]]" below to get the **VM-SL6.7**
+You can use the
+"[[https://arturos.web.cern.ch/arturos/ATLAS/outreach/vm/OutReach/vm/][window]]" below to get the **VM-SL6.7**
 
 You can directly select the option of **Open** the file if you have it: 
 ![](pictures/Screenshot_2015-02-05_02.43.32.png)
@@ -44,5 +46,5 @@ Now say **OK** to the **Settings** window and **Start** your **VM-SL6.7**    ( _
 ![](pictures/Screenshot_2015-02-03_15.34.04.png)
 
 **IMPORTANT NOTE:** To login the **VM-SL6** use as _username_ = **adminuser** and as _password_ = **adminuser**
-(This is your *root* password if you plan/need to do ==su== and/or ==sudo== ).
+(This is your *root* password if you plan/need to do su and/or sudo ).
 
