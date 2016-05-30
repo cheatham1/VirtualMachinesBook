@@ -54,9 +54,9 @@ You can take a look to the **xAOD** file too as it is mentioned in the tutorial,
 
  <CENTER>
    Dropbox or Google Drive Client to share files between the VM-SL6 and your host OS:
-     <img src="pictures/Screenshot_2015-02-03_16.32.37.png" alt="Screenshot_2015-02-03_16.32.37.png" width="400" height="300" />
-     
-     <img src="pictures/Screenshot_2015-02-03_16.34.04.png" alt="Screenshot_2015-02-03_16.34.04.png" width="400" height="300" />
+    
+    
+    <img src="pictures/Screenshot_2015-02-03_16.32.37.png" alt="Screenshot_2015-02-03_16.32.37.png" width="400" height="300" /><img src="pictures/Screenshot_2015-02-03_16.34.04.png" alt="Screenshot_2015-02-03_16.34.04.png" width="400" height="300" />
    </CENTER>
    
 
