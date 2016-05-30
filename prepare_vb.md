@@ -1,2 +1,3 @@
-# prepare VB
+# prepare Virtual Box
 
+# ![Image](../pictures/Screenshot_2015-02-02_22.28.09.png)
