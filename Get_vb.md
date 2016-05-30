@@ -14,7 +14,7 @@ Using the website [VirtualBox](https://www.virtualbox.org/) or **simple use the 
 
 
 
-###    Download the VirtualBox Program:
+Download the VirtualBox Program:
 
 
    <CENTER>
@@ -23,7 +23,7 @@ Using the website [VirtualBox](https://www.virtualbox.org/) or **simple use the 
    </CENTER>
 
 
-### Proceed with the installation of VirtualBox:
+Proceed with the installation of VirtualBox:
 
 
    <CENTER>
@@ -34,7 +34,7 @@ Using the website [VirtualBox](https://www.virtualbox.org/) or **simple use the 
 
 
 
-### Look for the icon into your Applications (folder) and get the main interface of VirtualBox:
+Look for the icon into your Applications (folder) and get the main interface of VirtualBox:
 
 
    <CENTER>
