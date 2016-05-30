@@ -1,17 +1,18 @@
 # Get and Run the Virtual Machine
 
 
-## Getting the Virtual-Machine-Scientific-Linux-6.7 ( **VM-SL6.7** ) with the **ATLAS D&T Software and Samples**
+## Getting the Virtual-Machine-Scientific-Linux-6.7 ( **VM-SL6.7** ) with the **ATLAS Data & Tools Software and Samples**
 
 
 
 In order to obtain the **VDI** file of our **VM-SL6.7**, we need to be sure that our host system has space for that.  At least **30GB** of space should be reserved for this.
 
-To download the - _compressed_ - file just [[https://arturos.web.cern.ch/arturos/ATLAS/outreach/vm/OutReach/vm/ScientificLinux67_ATLAS_Outreach_Tutorial_CERN_2016-disk1.vdi.gz][click here]].
+To download the compressed file just [[https://arturos.web.cern.ch/arturos/ATLAS/outreach/vm/OutReach/vm/ScientificLinux67_ATLAS_Outreach_Tutorial_CERN_2016-disk1.vdi.gz]
+[click here]].
 
 You can use the "[[https://arturos.web.cern.ch/arturos/ATLAS/outreach/vm/OutReach/vm/][window]]" below to get the **VM-SL6.7**
 
-You can directly select the option of **Open** the file is you have it: 
+You can directly select the option of **Open** the file if you have it: 
 ![](pictures/Screenshot_2015-02-05_02.43.32.png)
 
 Unzip the VM-SL6
@@ -32,7 +33,7 @@ You will see on the right the **Hard Disk** and a small icon of a _hard disk_ wh
 
 ![](pictures/Screenshot_2015-02-02_22.48.11.png)
 
-And browse for the recent downloaded (and uncompressed) **VDI** file of the *VM-SL6.7** :
+And browse for the recent downloaded (and uncompressed) **VDI** file of the **VM-SL6.7** :
 
 ![](pictures/Screenshot_2015-02-03_15.31.55.png)
 
