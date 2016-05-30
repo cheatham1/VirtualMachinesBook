@@ -22,28 +22,7 @@ III. Other Standard Linux folders
 
 Going into the ATLAS folder you will find the structure:
 
-To be fixed:
-
-
-ATLAS
-  |
-  ---- AnalysisBase     ## Our workspace place with the ATLAS Analysis software
-        |
-        ---- 2.0.24
-        |
-        ---- 2.1.24
-  |
-  ---- roots              ## Our two possible ROOT versions, very up-to-date (February 2015) They are use to run 2.0.24 (ROOT5) and 2.1.24 (ROOT6) 
-        |
-        ---- root-v5-34-24
-        |
-        ---- root-v6-02-04
-  |
-  ---- samples          ## The xAOD sample useful for tutorial and development, as you see (picture below) it's a real sample with 3GB size.
-        |
-        ---- mc14_8TeV.160009.*ggH125_gamma*/
-               |
-                ---- AOD.01512140._000094.pool.root.1
+![](pictures/RootStructure.png)
                 
 ![](pictures/Screenshot_2015-02-05_16.31.54.png)
 
