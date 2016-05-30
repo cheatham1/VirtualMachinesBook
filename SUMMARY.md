@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [download VB](download_vb.md)
-* prepare VB
+* [prepare VB](prepare_vb.md)
 
