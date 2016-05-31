@@ -7,23 +7,15 @@
 
 Use the website [VirtualBox](https://www.virtualbox.org/) to *download the software*.  
 
-Take care to select the appropriate **VirtualBox platform package**.
-
-
-![](pictures/VB.png)
-
-
 ## Step by step
 
 Download the VirtualBox Program:
 
+  ![](pictures/VB1.png)
+  
+  Take care to select the appropriate **VirtualBox platform package**.
 
-   <CENTER>
-     <img src="https://twiki.cern.ch/twiki/pub/AtlasProtected/MilanoTutorial2015RootHelp/Screenshot_2015-02-02_22.29.16.png" alt="Screenshot_2015-02-02_22.29.16.png" width="300" height="230" /></verbatim>
-     <img src="https://twiki.cern.ch/twiki/pub/AtlasProtected/MilanoTutorial2015RootHelp/Screenshot_2015-02-02_22.31.35.png" alt="Screenshot_2015-02-02_22.31.35.png" width="650" height="320" /></verbatim></br>
-   </CENTER>
-
-
+![](pictures/VB.png)
 Proceed with the installation of VirtualBox:
 
 
