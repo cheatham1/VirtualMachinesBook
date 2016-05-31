@@ -10,7 +10,7 @@ Use the website [VirtualBox](https://www.virtualbox.org/) to *download the softw
 Take care to select the appropriate **VirtualBox platform package**.
 
 
-![](pictures/Screenshot_2015-02-02_22.28.09.png)
+![](pictures/VB.png)
 
 
 ## Step by step
