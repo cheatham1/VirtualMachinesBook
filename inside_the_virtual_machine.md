@@ -7,7 +7,7 @@ If you open a Firefox window, you will get this presentation below, but where th
 
 ![](pictures/Screenshot_2015-02-03_15.35.23.png)
 
-Open a new **Terminal** ( _the icon is at the top..._ ) and do a "ls"  command right there, you will get the list:  (_picture below_)
+Open a new **Terminal** ( _the icon is at the top..._ ) and do a **ls**  command right there, you will get the list:  (_picture below_)
 
 I. The two scripts to setup the
   **AnalysisBase 2.0.24** and **AnalysisBase 2.1.24**;  
@@ -46,7 +46,7 @@ At this point you can start to work with the instructions in the Tutorial (_copy
 
 ![](pictures/Screenshot_2015-02-03_16.17.42.png)
 
-You can take a look to the **xAOD** file too as it is mentioned in the tutorial, but browsing the file locally!
+You can take a look at the **xAOD** file too, as mentioned in the tutorial, but browsing the file locally!
 
 ![](pictures/Screenshot_2015-02-03_01.00.00.png)
 
