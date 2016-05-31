@@ -7,10 +7,9 @@
 
 Use the website [VirtualBox](https://www.virtualbox.org/) to *download the software*.  
 
-## Step by step
+## Step by step 
 
-Download the VirtualBox Program:
-
+Select **Download VirtualBox**
   ![](pictures/VB1.png)
   
   Take care to select the appropriate **VirtualBox platform package**.
