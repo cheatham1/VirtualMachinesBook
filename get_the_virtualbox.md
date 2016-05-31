@@ -25,10 +25,3 @@ Proceed with the installation of VirtualBox:
    </CENTER>
 
 
-
-Look for the icon into your Applications (folder) and get the main interface of VirtualBox:
-
-
-   <CENTER>
-     <img src="https://twiki.cern.ch/twiki/pub/AtlasProtected/MilanoTutorial2015RootHelp/Screenshot_2015-02-02_22.38.01.png" alt="Screenshot_2015-02-02_22.38.01.png" width="771" height="639" /></verbatim></br>
-   </CENTER>
