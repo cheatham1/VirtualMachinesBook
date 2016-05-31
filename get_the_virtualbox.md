@@ -5,7 +5,11 @@
 
 
 
-Use the website [VirtualBox](https://www.virtualbox.org/) to _ download the software_
+Use the website [VirtualBox](https://www.virtualbox.org/) to *download the software*.  
+
+Take care to select the appropriate **VirtualBox platform package**.
+
+
 ![](pictures/Screenshot_2015-02-02_22.28.09.png)
 
 
