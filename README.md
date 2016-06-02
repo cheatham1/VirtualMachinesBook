@@ -9,5 +9,5 @@ A virtual machine allows an unmodified operating system with all of its installe
 Your physical computer will be the "host", while the virtual machine will be a "guest". Most of the guest code runs unmodified, directly on the host computer, and the guest operating system "thinks" it's running on real machine.
 
 
-![](pictures/ATLAS-Logo-Ref-CMYK-M.jpg)
+![](pictures/opendataLogo.jpg)
 
