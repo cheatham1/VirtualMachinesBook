@@ -8,6 +8,8 @@
 
 In order to obtain the Virtual Desktop Infrastructure (**VDI**) file of our **VM-SL6.7**, we need to be sure that our host system has space for it.  At least **30GB** of space should be reserved.
 
+////this information will be changed soon.
+
 To download the compressed file [[https://arturos.web.cern.ch/arturos/ATLAS/outreach/vm/OutReach/vm/ScientificLinux67_ATLAS_Outreach_Tutorial_CERN_2016-disk1.vdi.gz]
 [click here]].
 
