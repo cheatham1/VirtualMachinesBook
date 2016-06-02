@@ -52,11 +52,11 @@ You can take a look at the **xAOD** file too, as mentioned in the tutorial, but 
 
 **Note:** You can install a Cloud client to keep a real time contact with your two machines.
 
- <CENTER>
+ 
    Dropbox or Google Drive Client to share files between the VM-SL6 and your host OS:
     
-    
-    <img src="pictures/Screenshot_2015-02-03_16.32.37.png" alt="Screenshot_2015-02-03_16.32.37.png" width="400" height="300" /><img src="pictures/Screenshot_2015-02-03_16.34.04.png" alt="Screenshot_2015-02-03_16.34.04.png" width="400" height="300" />
-   </CENTER>
+ 
+![](./pictures/Screenshot_2015-02-03_16.32.37.png)    
+    ![](./pictures/Screenshot_2015-02-03_16.34.04.png)
    
 
