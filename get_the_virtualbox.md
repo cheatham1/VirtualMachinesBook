@@ -4,9 +4,10 @@
 # Getting the Virtualization Software (Hypervisor) VirtualBox
 
 
-Use the website
-<a href="https://www.virtualbox.org/" target="_blank"> VirtualBox </a>
-to *download the software*
+Use the website to *download the software*
+
+<a href="https://www.virtualbox.org/" target="_blank"> Go to the VirtualBox website</a>
+
 
 ## Step by step 
 
