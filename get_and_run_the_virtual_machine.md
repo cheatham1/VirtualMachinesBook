@@ -10,11 +10,11 @@ In order to obtain the Virtual Desktop Infrastructure (**VDI**) file of our **VM
 
 ////this information will be changed soon.
 
-To download the compressed file [[https://arturos.web.cern.ch/arturos/ATLAS/outreach/vm/OutReach/vm/ScientificLinux67_ATLAS_Outreach_Tutorial_CERN_2016-disk1.vdi.gz]
-[click here]].
+To download the compressed file [https://arturos.web.cern.ch/arturos/ATLAS/outreach/vm/OutReach/vm/ScientificLinux67_ATLAS_Outreach_Tutorial_CERN_2016-disk1.vdi.gz]
+[click here].
 
 You can use the
-[[https://arturos.web.cern.ch/arturos/ATLAS/outreach/vm/OutReach/vm/][window]] below to get the **VM-SL6.7**
+[https://arturos.web.cern.ch/arturos/ATLAS/outreach/vm/OutReach/vm/][window] below to get the **VM-SL6.7**
 
 You can directly select the option of **Open** the file if you have it: 
 ![](pictures/Screenshot_2015-02-05_02.43.32.png)
