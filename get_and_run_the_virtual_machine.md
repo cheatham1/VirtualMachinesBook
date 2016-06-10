@@ -25,9 +25,9 @@ Select the VM Version appropriate to your needs.  VM Version is recommended, if 
 Download may take some time.  Please be patient.
 
 The **VDI** file of the **VM-SL6**
-ScientificLinux67_ATLAS_Outreach_DataAndTools_June_2016-disk[1/2/3/4].vdi might be opened automatically.
+ScientificLinux67_ATLAS_Outreach_DataAndTools_June_2016-disk[1/2/3/4].vdi might be unzipped and opened automatically.
 
-If not, you can directly select the option of **Open** the file.
+If not, you can directly select the option of opening the file.
 ![](pictures/Screenshot_2015-02-05_02.43.32.png)
 
 Which will unzip the VM-SL6
@@ -37,7 +37,7 @@ Which will unzip the VM-SL6
 ![](pictures/Screenshot_2015-02-03_15.28.18.png)
 
 
-## Addding the **VDI** file of the **VM-SL6** to the VirtualBox machine: 
+## Addding the VDI file of the VM-SL6 to the VirtualBox machine: 
 
 
 You must click **Settings** on the top-left position of your VirtualBox window (the " _gear_  " icon)
