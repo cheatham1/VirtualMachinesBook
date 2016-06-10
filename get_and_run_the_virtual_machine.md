@@ -4,17 +4,22 @@
 ## Getting the Virtual-Machine-Scientific-Linux-6.7 ( **VM-SL6.7** ) with the **ATLAS Data & Tools Software and Samples**
 
 
-
-
 In order to obtain the Virtual Desktop Infrastructure (**VDI**) file of our **VM-SL6.7**, we need to be sure that our host system has space for it.  At least **30GB** of space should be reserved.
 
-////this information will be changed soon.
+Select the black Download button at the top right of the webpage.  Then Virtual Machines.  Here are four choices of Virtual Machine (VM):  
+* S: This contains ... and is size ...     
+* M:
+* N: 
+* mu:
 
-To download the compressed file [https://arturos.web.cern.ch/arturos/ATLAS/outreach/vm/OutReach/vm/ScientificLinux67_ATLAS_Outreach_Tutorial_CERN_2016-disk1.vdi.gz]
-[click here].
 
-You can use the
-[https://arturos.web.cern.ch/arturos/ATLAS/outreach/vm/OutReach/vm/][window] below to get the **VM-SL6.7**
+Select the VM Version appropriate to your needs.  VM Version S ?? is recommended, if you have the space. ? 
+
+Download may take some time.  Please be patient.
+
+You have downloaded
+ScientificLinux67_ATLAS_Outreach_DataAndTools_June_2016-disk[1/2/3/4].vdi.gz
+
 
 You can directly select the option of **Open** the file if you have it: 
 ![](pictures/Screenshot_2015-02-05_02.43.32.png)
