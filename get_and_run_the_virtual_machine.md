@@ -48,7 +48,8 @@ Now in the new _pop-up_ window, you must go to **Storage** ( _4th left to the ri
 
 ![](pictures/Screenshot_2015-02-02_22.46.50.png)
 
-You will see on the right the **Hard Disk** and a small icon of a _hard disk_ .If you click there, the system will give you two options. You have to select: **Choose a virtual hard disk file...**
+You will see on the right the **Hard Disk** and a small icon of a _hard disk_ .If you click there, the system will give you two options. 
+You have to select: **Choose a virtual hard disk file...** [is this true?]
 
 ![](pictures/Screenshot_2015-02-02_22.48.11.png)
 
