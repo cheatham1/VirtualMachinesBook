@@ -8,7 +8,7 @@ In order to obtain the Virtual Desktop Infrastructure (**VDI**) file of our **VM
 
 Select the black Download button at the top right of the webpage.  Then Virtual Machines.  Here are four choices of Virtual Machine (VM):  
 * S: This contains ... size 31 GB     
-* M:
+* M: This is a lighter version with size = 19 GB
 * N: 
 * mu:
 
