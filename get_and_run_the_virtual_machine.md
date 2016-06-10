@@ -7,7 +7,7 @@
 In order to obtain the Virtual Desktop Infrastructure (**VDI**) file of our **VM-SL6.7**, we need to be sure that our host system has space for it.  At least **30GB** of space should be reserved.
 
 Select the black Download button at the top right of the webpage.  Then Virtual Machines.  Here are four choices of Virtual Machine (VM):  
-* S: This contains ... and is size ...     
+* S: This contains ... size 31 GB     
 * M:
 * N: 
 * mu:
