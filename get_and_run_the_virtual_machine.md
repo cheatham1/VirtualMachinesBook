@@ -25,12 +25,13 @@ Select the VM Version appropriate to your needs.  VM Version is recommended, if 
 Download may take some time.  Please be patient.
 
 The **VDI** file of the **VM-SL6**
-ScientificLinux67_ATLAS_Outreach_DataAndTools_June_2016-disk[1/2/3/4].vdi might be unzipped and opened automatically.
+might be unzipped automatically.
+ScientificLinux67_ATLAS_Outreach_DataAndTools_June_2016-disk[1/2/3/4].vdi 
 
-If not, you can directly select the option of opening the file.
+If not, you can directly select the option of opening the .vdi.gz file.
 ![](pictures/Screenshot_2015-02-05_02.43.32.png)
 
-Which will unzip the VM-SL6
+Which will unzip the file
 
 ![](pictures/Screenshot_2015-02-03_15.08.26.png)
 
