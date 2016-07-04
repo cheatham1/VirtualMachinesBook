@@ -2,7 +2,7 @@
 
 ## Create a Shell for the Virtual Machine (VM)
 
-Look for the icon into your Applications (folder) and get the main interface of VirtualBox:
+Look for the icon in your Applications (folder).  Double click to get the main interface of VirtualBox:
 
 <img src="./pictures/Screenshot_2015-02-02_22.38.01.png" width="771" height="639" />
   
@@ -42,7 +42,7 @@ For **File location and size** you will need to select a maximum size from the v
 
 After those steps, your **VM** is created (well, an empty VM)
 
-Good VM-SL6 Configuration
+Good VM-SL6 Configuration looks like this
 
 
 
