@@ -14,13 +14,13 @@ Select the black Download button at the top right of the webpage, then Virtual M
 
 
 There are four choices of Virtual Machine (VM):  
-* S: This contains ... size 31 GB     
-* M: This is a lighter version with size = 19 GB
+* S: This contains all the software and files.  Size 31 GB     
+* M: This is a lighter version with size 19 GB
 * N: 
 * mu:
 
 
-Select the VM Version appropriate to your needs.  VM Version is recommended, if you have the space, as it contains all the software and files.
+Select the VM Version appropriate to your needs.  VM Version S is recommended, if you have the space, as it contains all the software and files.
 
 Download may take some time.  Please be patient.
 
