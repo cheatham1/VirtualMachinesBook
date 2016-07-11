@@ -15,7 +15,7 @@ Select the black Download button at the top right of the webpage, then Virtual M
 
 There are four choices of Virtual Machine (VM):  
 * S: This contains all the software and files.  Size 31 GB     
-* M: This is a lighter version with size 19 GB
+* M: This is a lighter version with size 18.51 GB
 * N: 
 * mu:
 
@@ -49,8 +49,9 @@ Now in the new _pop-up_ window, you must go to **Storage** ( _4th left to the ri
 
 ![](pictures/Screenshot_2015-02-02_22.46.50.png)
 
-You will see on the right the **Hard Disk** and a small icon of a _hard disk_ .If you click there, the system will give you two options. 
-You have to select: **Choose a virtual hard disk file...** [is this true?]
+Select your .vdi
+You will then see on the right the **Hard Disk** and a small icon of a _hard disk_ .If you click there, the system will give you two options. 
+You have to select: **Choose a virtual hard disk file...**
 
 ![](pictures/Screenshot_2015-02-02_22.48.11.png)
 
