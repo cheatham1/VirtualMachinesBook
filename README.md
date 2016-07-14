@@ -1,4 +1,11 @@
+
+
+# Work In Progress
+**Adding the VDI file of the VM-SL6 to the VirtualBox machine does not currently function properly.  We are working on it and it will be fixed soon.**
+
+
 # ATLAS data & tools virtual machine documentation
+
 
 You will learn how to download and prepare a virtual machine to run on your computer.  This will then enable you to take a look at ATLAS data.
 
