@@ -41,6 +41,8 @@ Which will unzip the file
 ## Addding the VDI file of the VM-SL6 to the VirtualBox machine: 
 
 
+**Adding the VDI file of the VM-SL6 to the VirtualBox machine does not currently function properly.  We are working on it and it will be fixed soon.**
+
 You must click **Settings** on the top-left position of your VirtualBox window (the " _gear_  " icon)
 
 ![](pictures/Screenshot_2015-02-02_22.46.35.png)
