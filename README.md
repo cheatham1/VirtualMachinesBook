@@ -1,9 +1,6 @@
 
 
 # Work In Progress
-**Adding the VDI file of the VM-SL6 to the VirtualBox machine does not currently function properly.  We are working on it and it will be fixed soon.**
-
-
 # ATLAS data & tools virtual machine documentation
 
 
