@@ -37,14 +37,11 @@ If not, you can directly select the option of opening the .vdi.gz file.
 
 Which will unzip the file
 
+![](NewPictures/orangeVDI.png)
 
-![](pictures/Screenshot_2015-02-03_15.28.18.png)
 
 
 ## Addding the VDI file of the VM-SL6 to the VirtualBox machine: 
-
-
-**Adding the VDI file of the VM-SL6 to the VirtualBox machine does not currently function properly.  We are working on it and it will be fixed soon.**
 
 You must click **Settings** on the top-left position of your VirtualBox window (the " _gear_  " icon)
 
