@@ -45,23 +45,33 @@ Which will unzip the file
 
 You must click **Settings** on the top-left position of your VirtualBox window (the " _gear_  " icon)
 
-![](pictures/Screenshot_2015-02-02_22.46.35.png)
+
+![](NewPictures/Settings.jpg)
 
 Now in the new _pop-up_ window, you must go to **Storage** ( _4th left to the right_ ) 
 
-![](pictures/Screenshot_2015-02-02_22.46.50.png)
+
+
+![](NewPictures/Storage.jpg)
 
 Select your .vdi
 You will then see on the right the **Hard Disk** and a small icon of a _hard disk_ .If you click there, the system will give you two options. 
 You have to select: **Choose a virtual hard disk file...**
 
-![](pictures/Screenshot_2015-02-02_22.48.11.png)
+
+![](NewPictures/VirtualHardDisk.jpg)
 
 Browse for the recent downloaded (and uncompressed) **VDI** file of the **VM-SL6.7** :
 
-![](pictures/Screenshot_2015-02-03_15.31.55.png)
 
-Now say **OK** to the **Settings** window and **Start** your **VM-SL6.7**    ( _you will see something like this below_ )
+![](NewPictures/Choosevdi.jpg)
+
+Open.
+Now say **OK** to the **Settings** window and **Start** your **VM-SL6.7**   
+
+![](NewPictures/Start.jpg)
+
+You will see something like this below
 
 ![](pictures/Screenshot_2015-02-03_15.33.12.png)
 
