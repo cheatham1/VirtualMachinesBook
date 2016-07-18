@@ -13,7 +13,7 @@ Select the black Download button at the top right of the webpage, then Virtual M
 
 
 
-There are four choices of Virtual Machine (VM):  
+There are four versions of Virtual Machine (VM):  
 * S: This contains all the software and files.  Size 31 GB     
 * M: This is a lighter version with size 18.51 GB
 * N: 
@@ -22,18 +22,21 @@ There are four choices of Virtual Machine (VM):
 
 Select the VM Version appropriate to your needs.  VM Version S is recommended, if you have the space, as it contains all the software and files.
 
+![](NewPictures/DownloadVMS.jpg)
+
 Download may take some time.  Please be patient.
 
 The **VDI** file of the **VM-SL6**
 might be unzipped automatically.
-ScientificLinux67_ATLAS_Outreach_DataAndTools_June_2016-disk[1/2/3/4].vdi 
+ScientificLinux67_ATLAS_Outreach_DataAndTools_July_2016-disk[S/M/N/mu].vdi 
 
 If not, you can directly select the option of opening the .vdi.gz file.
-![](pictures/Screenshot_2015-02-05_02.43.32.png)
+
+
+![](NewPictures/SaveVMS.jpg)
 
 Which will unzip the file
 
-![](pictures/Screenshot_2015-02-03_15.08.26.png)
 
 ![](pictures/Screenshot_2015-02-03_15.28.18.png)
 
