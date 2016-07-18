@@ -36,16 +36,11 @@ For **Storage on physical hard drive** select " **Dynamically allocated** " (Thi
 For **File location and size** you will need to select a maximum size from the virtual HD of **at least 26GB (or 30GB)** 
 
 
-
-![](pictures/Screenshot_2016-02-12_17.23.06_d.png)
+![](NewPictures/FileLocSize.jpg)
 
 After those steps, your **VM** is created (well, an empty VM)
 
 Good VM-SL6 Configuration looks like this
-
-
-
-
 
 
 ![](NewPictures/VMready.jpg)
