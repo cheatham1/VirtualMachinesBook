@@ -2,7 +2,7 @@
 
 ## Create a Shell for the Virtual Machine (VM)
 
-Look for the icon in your Applications (folder).  Double click to get the main interface of VirtualBox:
+Look for the VirtualBox icon in your Applications (folder).  Double click to get the main interface of VirtualBox:
 
 <img src="./pictures/Screenshot_2015-02-02_22.38.01.png" width="771" height="639" />
   
@@ -14,8 +14,7 @@ Now let's create a new VM entity by clicking **New** on the left corner:
    
 
 
-
-![](pictures/Screenshot_2016-02-12_17.21.54_b.png)
+![](NewPictures/NameOpSys.jpg)
 
 For **Memory Size** I strongly suggest you to use **1024MB** of **RAM**
 
@@ -46,8 +45,8 @@ Good VM-SL6 Configuration looks like this
 
 
 
-![](pictures/Screenshot_2016-02-12_17.29.15_e.png)
 
 
 
+![](NewPictures/VMready.jpg)
 
