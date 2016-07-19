@@ -12,11 +12,17 @@ Use the VirtualBox website to *download the software*
 ## Step by step 
 
 Select **Download VirtualBox**
-  ![](pictures/VB1.png)
-  
-  Take care to select the appropriate **VirtualBox platform package**.
+ 
+ ![](NewPictures/VB5.1.jpg)
 
-![](pictures/VB.png)
+Take care to select the appropriate **VirtualBox platform package**.
+
+
+![](NewPictures/DownloadVB.jpg)
+ 
+  
+
+
 Proceed with the installation of VirtualBox:
 
 <img src="./pictures/Screenshot_2015-02-02_22.34.19.png" width="674" height="388" />
