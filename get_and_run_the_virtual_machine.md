@@ -14,13 +14,19 @@ Select the black Download button at the top right of the webpage, then Virtual M
 
 
 There are four versions of Virtual Machine (VM):  
-* S: This contains all the software and files.  Size 31 GB     
-* M: This is a lighter version with size 18.51 GB
-* N: 
-* mu:
+**VM-S** 
+: S for “small”, it has a compressed size of ~4.6GB, and a uncompressed size of ~11GB. This contains a complete Scientific Linux OS 6.7, important software dependencies and the latest version of ROOT v6-07-06
 
+**VM-M** 
+: M for “medium”, it has a compressed size of ~10.6GB, and a uncompressed size of ~22GB. This contains a complete Scientific Linux OS 6.7, important software dependencies, the latest version of ROOT v6-07-06 and the **complete set of datasets** of the ATLAS release (Data&MC)
 
-Select the VM Version appropriate to your needs.  VM Version S is recommended, if you have the space, as it contains all the software and files.
+**VM-N**
+: N for “NET” with unknown sizes yet, but smaller that VM-S. This will contain a complete Scientific Linux OS 6.7, important software dependencies and CVMFS access to public software repositories.
+
+**VM-mu**
+: mu for “micro” with unknown sizes yet, but much smaller that VM-N or VM-S. It will contain a Linux distribution with not graphical user interface. It will have important software dependencies and the latest version of ROOT v6*
+
+Select the VM Version appropriate to your needs.  VM Version M is recommended, if you have the space, as it contains all the software and datasets.
 
 ![](NewPictures/DownloadVMS.jpg)
 
@@ -28,7 +34,7 @@ Download may take some time.  Please be patient.
 
 The **VDI** file of the **VM-SL6**
 might be unzipped automatically.
-ScientificLinux67_ATLAS_Outreach_DataAndTools_July_2016-disk[S/M/N/mu].vdi 
+ScientificLinux67_ATLAS_Outreach_DataAndTools_July_2016-size_[S/M/N/mu].vdi 
 
 If not, you can directly select the option of opening the .vdi.gz file.
 
