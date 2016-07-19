@@ -46,3 +46,4 @@ Good VM-SL6 Configuration looks like this
 
 ![](NewPictures/VMready.jpg)
 
+
