@@ -16,6 +16,7 @@ Now let's create a new VM entity by clicking **New** on the left corner:
 
 ![](NewPictures/NameOpSys.jpg)
 
+
 For **Memory Size** I strongly suggest you to use **1024MB** of **RAM**
 
 
