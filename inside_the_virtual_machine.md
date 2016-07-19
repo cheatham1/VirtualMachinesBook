@@ -7,7 +7,7 @@ You will get this presentation below, where the **only bookmark** is the tutoria
 
 ![](NewPictures/VMrunning.jpg)
 
-Open a new **Terminal** ( the icon is at the top, circled in red) and do a **ls**  command right there, you will get the list: ATLAS, Desktop, Documents, Downloads, Dropbox, Public, README and setup.sh
+Open a new **Terminal** ( the icon is at the top, circled in red) and do a **ls**  command right there, you will get the list: ATLAS, Desktop, Documents, Downloads, Dropbox, Public, README and setupROOT.sh
 
 
 ![](NewPictures/terminal_ls.jpg)
