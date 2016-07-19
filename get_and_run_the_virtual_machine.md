@@ -28,9 +28,7 @@ There are four versions of Virtual Machine (VM):
 
 Select the VM Version appropriate to your needs.  VM Version M is recommended, if you have the space, as it contains all the software and datasets.
 
-![](NewPictures/DownloadVMS.jpg)
-
-Download may take some time.  Please be patient.
+**Download will take some time.  Please be patient.**
 
 The **VDI** file of the **VM-SL6**
 might be unzipped automatically.
@@ -38,8 +36,8 @@ ScientificLinux67_ATLAS_Outreach_DataAndTools_July_2016-size_[S/M/N/mu].vdi
 
 If not, you can directly select the option of opening the .vdi.gz file.
 
+![](NewPictures/DownloadVMS.jpg)
 
-![](NewPictures/SaveVMS.jpg)
 
 Which will unzip the file
 
