@@ -3,11 +3,14 @@
 
 ## Software Available
 
-If you open a Firefox window, you will get this presentation below, but where the **only bookmark** is the tutorial that you are doing now! 
+You will get this presentation below, where the **only bookmark** is the tutorial that you are doing now! 
 
-![](pictures/Screenshot_2015-02-03_15.35.23.png)
+![](NewPictures/VMrunning.jpg)
 
-Open a new **Terminal** ( _the icon is at the top..._ ) and do a **ls**  command right there, you will get the list:  (_picture below_)
+Open a new **Terminal** ( the icon is at the top, circled in red) and do a **ls**  command right there, you will get the list: ATLAS, Desktop, Documents, Downloads, Dropbox, Public, README and setup.sh
+
+
+![](NewPictures/terminal_ls.jpg)
 
 I. The two scripts to setup the
   **AnalysisBase 2.0.24** and **AnalysisBase 2.1.24**;  
