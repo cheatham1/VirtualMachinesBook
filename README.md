@@ -1,6 +1,3 @@
-
-
-# Work In Progress
 # ATLAS data & tools virtual machine documentation
 
 
