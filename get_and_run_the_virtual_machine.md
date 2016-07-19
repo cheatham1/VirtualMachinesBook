@@ -52,6 +52,7 @@ You must click **Settings** on the top-left position of your VirtualBox window (
 
 ![](NewPictures/Settings.jpg)
 
+
 Now in the new _pop-up_ window, you must go to **Storage** ( _4th left to the right_ ) 
 
 
