@@ -80,7 +80,10 @@ You will see something like this below
 
 ![](pictures/Screenshot_2015-02-03_15.33.12.png)
 
-![](pictures/Screenshot_2015-02-03_15.34.04.png)
+
+
+
+![](NewPictures/VM-SL6.jpg)
 
 **IMPORTANT NOTE:** To login to the **VM-SL6** use as _username_ = **adminuser** and as _password_ = **adminuser**
 (This is your *root* password if you plan/need to do su and/or sudo ).
