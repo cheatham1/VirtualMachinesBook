@@ -60,6 +60,7 @@ Now in the new _pop-up_ window, you must go to **Storage** ( _4th left to the ri
 ![](NewPictures/Storage.jpg)
 
 Select your .vdi
+
 You will then see on the right the **Hard Disk** and a small icon of a _hard disk_ .If you click there, the system will give you two options. 
 You have to select: **Choose a virtual hard disk file...**
 
@@ -78,14 +79,16 @@ Now say **OK** to the **Settings** window and **Start** your **VM-SL6.7**
 
 You will see something like this below
 
-![](pictures/Screenshot_2015-02-03_15.33.12.png)
 
 
+![](NewPictures/DataAndToolsRunning.jpg)
 
 
 ![](NewPictures/VM-SL6.jpg)
 
-Now login
-**IMPORTANT:** To login to the **VM-SL6** use as _username_ = **adminuser** and as _password_ = **adminuser**
+Now login to the **VM-SL6** 
+
+use as _username_ = **adminuser** and as _password_ = **adminuser**
+
 (This is your *root* password if you plan/need to do su and/or sudo ).
 
