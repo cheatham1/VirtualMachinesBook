@@ -32,7 +32,8 @@ Select the VM Version appropriate to your needs.  VM Version M is recommended, i
 
 The **VDI** file of the **VM-SL6**
 might be unzipped automatically.
-ScientificLinux67_ATLAS_Outreach_DataAndTools_July_2016-size_[S/M/N/mu].vdi 
+
+ScientificLinux67\_ATLAS\_Outreach\_DataAndTools\_July\_2016-size\_[S/M/N/mu].vdi 
 
 If not, you can directly select the option of opening the .vdi.gz file.
 
