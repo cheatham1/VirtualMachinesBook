@@ -54,7 +54,7 @@ Then plot the variables.
 
 **Note:** You can install a Cloud client to keep a real time contact with your two machines.
 
-   Dropbox or Google Drive Client to share files between the VM-SL6 and your host OS:
+   Use Dropbox (included) or Google Drive Client to share files between the VM-SL6 and your host OS:
     
  
 ![](./pictures/Screenshot_2015-02-03_16.32.37.png)    
