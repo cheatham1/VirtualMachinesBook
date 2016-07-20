@@ -7,55 +7,53 @@ You will get this presentation below, where the **only bookmark** is the tutoria
 
 ![](NewPictures/VMrunning.jpg)
 
-Open a new **Terminal** ( the icon is at the top, circled in red) and do a **ls**  command right there, you will get the list: ATLAS, Desktop, Documents, Downloads, Dropbox, Public, README and setupROOT.sh
+Open a new **Terminal** ( the icon is at the top, circled in red) and do a **ls**  command right there. You will get the list: ATLAS, Desktop, Documents, Downloads, Dropbox, Public, README and setupROOT.sh
 
 
 ![](NewPictures/terminal_ls.jpg)
 
-I. The two scripts to setup the
-  **AnalysisBase 2.0.24** and **AnalysisBase 2.1.24**;  
-   AnalysisBase 2.0.24.sh and AnalysisBase 2.1.24.sh
-   
-   
-II. The ATLAS folder containing the **software** and **xAOD input** we will use
+Go into the ATLAS/analysis folder.  
+Run the setupROOT script.  
+Go into the atlas-outreach-data-tools-framework-1.0 folder.
+Here you will see : Analysis, Configurations, Input, Output, Plotting and results folders plus two python scripts.  
 
-III. Other Standard Linux folders
+![](NewPictures/terminal.jpg)
 
-![](pictures/Screenshot_2015-02-03_15.36.28.png)
+Now you are ready to start your analysis of the data.
 
-Going into the ATLAS folder you will find the structure:
+Go to the chapter "take a look at the data" in the Software book
+and follow the instructions, starting with 
 
-![](pictures/RootStructure.png)
+    python RunScript.py -a TTbarAnalysis -s "WW, WZ"
+
+
                 
-![](pictures/Screenshot_2015-02-05_16.31.54.png)
+![](NewPictures/RunScript.jpg)
 
-You can see the behavior of **ROOT** using the two versions (ROOT5 and ROOT6 here below)
 
-![](pictures/Screenshot_2015-02-03_15.38.22.png)
+## Take a look at the datasets.
 
-![](pictures/Screenshot_2015-02-03_15.39.45.png)
+Data and simulated data root ntuples are in the Input folder.
 
-Taking a look into the two AnalysisBase setup scripts mentioned before (using command more ) you can see how **ROOT** is sourced and RootCore (+ _boost_ that is necessary to compile...) 
+![](NewPictures/InputFolder.jpg)
 
-![](pictures/Screenshot_2015-02-03_15.41.40.png)
+Launch root, attaching your chosen dataset
 
-An internal view of one of the **AnalysisBase** releases: 
+    root DataEgamma.root
 
-![](pictures/Screenshot_2015-02-03_15.53.00.png)
+![](NewPictures/LaunchROOT.jpg)
 
-At this point you can start to work with the instructions in the Tutorial (_copying and pasting instructions..._) 
+Use Tbrowser to look at the different variables available.
 
-![](pictures/Screenshot_2015-02-03_15.56.19.png)
+![](NewPictures/DataEgamma.jpg)
 
-![](pictures/Screenshot_2015-02-03_16.17.42.png)
+Then plot the variables.
 
-You can take a look at the **xAOD** file too, as mentioned in the tutorial, but browsing the file locally!
+![](NewPictures/Lep_pt.jpg)
 
-![](pictures/Screenshot_2015-02-03_01.00.00.png)
 
 **Note:** You can install a Cloud client to keep a real time contact with your two machines.
 
- 
    Dropbox or Google Drive Client to share files between the VM-SL6 and your host OS:
     
  
