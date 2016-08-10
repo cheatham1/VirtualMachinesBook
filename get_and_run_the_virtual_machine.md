@@ -21,7 +21,7 @@ There are four versions of Virtual Machine (VM):
 : M for “medium”, it has a compressed size of ~10.6GB, and a uncompressed size of ~22GB. This contains a complete Scientific Linux OS 6.7, important software dependencies, the latest version of ROOT v6-07-06 and the **complete set of datasets** (data and simulated Monte Carlo) of the ATLAS release.
 
 **VM-N**
-: N for “NET” with unknown sizes yet, but smaller that VM-S. This will contain a complete Scientific Linux OS 6.7, important software dependencies and CVMFS access to public software repositories.
+: N for “NET”, it has a compressed size of ~5.2GB, and a uncompressed size of ~17GB. This contains a complete Scientific Linux OS 6.7, important software dependencies and CVMFS access to public software repositories. We will reduce its size by ~40% in the coming weeks.
 
 **VM-mu**
 : mu for “micro” with unknown sizes yet, but much smaller that VM-N or VM-S. It will contain a Linux distribution with not graphical user interface. It will have important software dependencies and the latest version of ROOT v6*
