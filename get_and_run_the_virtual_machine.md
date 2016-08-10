@@ -48,13 +48,13 @@ Which will unzip the file
 
 ## Addding the VDI file of the VM-SL6 to the VirtualBox machine: 
 
-You must click **Settings** on the top-left position of your VirtualBox window (the " _gear_  " icon)
+Click **Settings**, the " _gear_  " icon at the top-left of your VirtualBox window 
 
 
 ![](NewPictures/Settings.jpg)
 
 
-Now in the new _pop-up_ window, you must go to **Storage** ( _4th left to the right_ ) 
+Now in the new pop-up window, go to **Storage** ( 4th option from the left) 
 
 
 
@@ -62,13 +62,13 @@ Now in the new _pop-up_ window, you must go to **Storage** ( _4th left to the ri
 
 Select your .vdi
 
-You will then see on the right the **Hard Disk** and a small icon of a _hard disk_ .If you click there, the system will give you two options. 
-You have to select: **Choose a virtual hard disk file...**
+You will then see on the right **Hard Disk** and a small icon of a hard disk.  If you click there, the system will give you two options. 
+Select: **Choose a virtual hard disk file...**
 
 
 ![](NewPictures/VirtualHardDisk.jpg)
 
-Browse for the recent downloaded (and uncompressed) **VDI** file of the **VM-SL6.7** :
+Browse for the recently downloaded (and uncompressed) **VDI** file of the **VM-SL6.7** :
 
 
 ![](NewPictures/Choosevdi.jpg)
@@ -89,7 +89,7 @@ You will see something like this below
 
 Now login to the **VM-SL6** 
 
-use as _username_ = **adminuser** and as _password_ = **adminuser**
+with username = **adminuser** and password = **adminuser**
 
-(This is your *root* password if you plan/need to do su and/or sudo ).
+(This is your **root** password if you plan/need to do su and/or sudo ).
 
