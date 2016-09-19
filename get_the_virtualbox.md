@@ -1,14 +1,5 @@
 # Get the VirtualBox
 
-
-Select the 'Download' button at the top right of the page, then select 'Virtual Machines'.
-
-![](pictures/Download.jpg)
-![](NewPictures/VirtualMachineButton.png)
-
-Or just directly select Virtual Machines.
-![](NewPictures/VirtualMachineSelected.png)
-
 # Getting the Virtualization Software (Hypervisor) VirtualBox
 
 
