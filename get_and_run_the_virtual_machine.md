@@ -6,12 +6,13 @@
 
 In order to obtain the Virtual Desktop Infrastructure (**VDI**) file of our **VM-SL6.7**, we need to be sure that our host system has space for it.  At least **30GB** of space should be reserved.
 
-Select the black Download button at the top right of the webpage, then Virtual Machines.  
+Select the black 'Download' button at the top right of the page, then select 'Virtual Machines'.  
 
 <img src="./pictures/Download.jpg" width="100" />
 <img src="./pictures/VMbutton.jpg" width="150" /> 
 
-
+Or just directly select Virtual Machines.
+![](NewPictures/VirtualMachineSelected.png)
 
 There are four versions of Virtual Machine (VM):  
 **VM-S** 
@@ -26,7 +27,7 @@ There are four versions of Virtual Machine (VM):
 **VM-mu**
 : mu for “micro” with unknown sizes yet, but much smaller that VM-N or VM-S. It will contain a Linux distribution with not graphical user interface. It will have important software dependencies and the latest version of ROOT v6*
 
-Select the VM Version appropriate to your needs.  VM Version M is recommended, if you have the space, as it contains all the software and datasets.
+Select the VM Version appropriate to your needs.  **VM Version M is recommended, if you have the space**, as it contains all the software and datasets.
 
 **Download will take some time.  Please be patient.**
 
@@ -35,12 +36,13 @@ might be unzipped automatically.
 
 ScientificLinux67\_ATLAS\_Outreach\_DataAndTools\_July\_2016-size\_[S/M/N/mu].vdi 
 
-If not, you can directly select the option of opening the .vdi.gz file.
+If not, you can select the option of opening the .vdi.gz file, which will unzip the file.
 
 ![](NewPictures/DownloadVMS.jpg)
 
 
-Which will unzip the file
+You have successfully got your Virtual Machine.
+vdi stands for virtual desktop infrastructure.
 
 ![](NewPictures/orangeVDI.png)
 
