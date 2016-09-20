@@ -41,11 +41,11 @@ If not, you can select the option of opening the .vdi.gz file, which will unzip 
 
 You have successfully got your Virtual Machine.
 
-![](NewPictures/orangeVDI.png)
+![](NewPictures/orangeVDI2.png)
 
 
 
-## Addding the VDI file of the VM-SL6 to the VirtualBox machine: 
+## Adding the VDI file to the VirtualBox machine: 
 
 Click **Settings**, the " _gear_  " icon at the top-left of your VirtualBox window 
 
@@ -61,8 +61,8 @@ Now in the new pop-up window, go to **Storage** ( 4th option from the left)
 
 Select your .vdi
 
-You will then see on the right **Hard Disk** and a small icon of a hard disk.  If you click there, the system will give you two options. 
-Select: **Choose a virtual hard disk file...**
+You will then see on the right **Hard Disk** and a small icon of a hard disk.  If you click on the hard disk icon, the system will give you options. 
+Select: **Choose Virtual Hard Disk File...**
 
 
 ![](NewPictures/VirtualHardDisk.jpg)
