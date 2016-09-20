@@ -1,8 +1,5 @@
 # Inside The Virtual Machine
 
-
-## Software Available
-
 You will get this presentation below, where the **only bookmark** is the tutorial that you are doing now! 
 
 ![](NewPictures/VMrunning.jpg)
@@ -73,7 +70,7 @@ To quit root
 
 ## Now you are ready to start your analysis of the data.
 
-Go to the chapter "**take a look at the data**" in the **Software book**
+Go to the chapter "**take a look at the data**" in the **Software Book**
 and follow the instructions, starting with 
 
     python RunScript.py -a TTbarAnalysis -s "WW, WZ"
