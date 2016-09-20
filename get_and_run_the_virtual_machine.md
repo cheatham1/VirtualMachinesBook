@@ -1,10 +1,7 @@
 # Get and Run the Virtual Machine
 
-
-## Getting the Virtual-Machine-Scientific-Linux-6.7 ( **VM-SL6.7** ) with the **ATLAS Data & Tools Software and Samples**
-
-
-In order to obtain the Virtual Desktop Infrastructure (**VDI**) file of our **VM-SL6.7**, we need to be sure that our host system has space for it.  At least **30GB** of space should be reserved.
+Our virtual machines contains Scientific Linux 6.7 ( **VM-SL6.7** ) plus ATLAS Data and Tools software and samples.  This is bundled up in a vdi file (Virtual Desktop Infrastructure).
+You need to have at least  **30GB** of space on your host machine.
 
 Select the black 'Download' button at the top right of the page, then select 'Virtual Machines'.  
 
@@ -12,14 +9,16 @@ Select the black 'Download' button at the top right of the page, then select 'Vi
 <img src="./pictures/VMbutton.jpg" width="150" /> 
 
 Or just directly select Virtual Machines.
+
 ![](NewPictures/VirtualMachineSelected.png)
 
 There are four versions of Virtual Machine (VM):  
-**VM-S** 
-: S for “small”, it has a compressed size of ~4.6GB, and a uncompressed size of ~11GB. This contains a complete Scientific Linux OS 6.7, important software dependencies and the latest version of ROOT v6-07-06
 
 **VM-M** 
 : M for “medium”, it has a compressed size of ~10.6GB, and a uncompressed size of ~22GB. This contains a complete Scientific Linux OS 6.7, important software dependencies, the latest version of ROOT v6-07-06 and the **complete set of datasets** (data and simulated Monte Carlo) of the ATLAS release.
+
+**VM-S** 
+: S for “small”, it has a compressed size of ~4.6GB, and a uncompressed size of ~11GB. This contains a complete Scientific Linux OS 6.7, important software dependencies and the latest version of ROOT v6-07-06
 
 **VM-N**
 : N for “NET”, it has a compressed size of ~5.2GB, and a uncompressed size of ~17GB. This contains a complete Scientific Linux OS 6.7, important software dependencies and CVMFS access to public software repositories. We will reduce its size by ~40% in the coming weeks.
@@ -31,8 +30,7 @@ Select the VM Version appropriate to your needs.  **VM Version M is recommended,
 
 **Download will take some time.  Please be patient.**
 
-The **VDI** file of the **VM-SL6**
-might be unzipped automatically.
+The **VDI** file might be unzipped automatically.
 
 ScientificLinux67\_ATLAS\_Outreach\_DataAndTools\_July\_2016-size\_[S/M/N/mu].vdi 
 
@@ -42,7 +40,6 @@ If not, you can select the option of opening the .vdi.gz file, which will unzip 
 
 
 You have successfully got your Virtual Machine.
-vdi stands for virtual desktop infrastructure.
 
 ![](NewPictures/orangeVDI.png)
 
