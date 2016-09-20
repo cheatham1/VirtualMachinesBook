@@ -12,7 +12,7 @@ Now let's create a new VM entity by clicking **New** on the left corner:
    
 ![](pictures/Screenshot_2016-02-12_17.21.28_a.png)
    
-
+Select Type "Linux" and Version "Linux 2.6/ 3.x / 4.x (64-bit)" from the drop-down menus.  Then "Continue".
 
 ![](NewPictures/NameOpSys.jpg)
 
@@ -39,9 +39,9 @@ For **File location and size** you will need to select a maximum size from the v
 
 ![](NewPictures/FileLocSize.jpg)
 
-After those steps, your **VM** is created (well, an empty VM)
+After those steps, your **VM** is created (an empty VM)
 
-Good VM-SL6 Configuration looks like this
+Your VM-SL6 configuration should look like this:
 
 
 ![](NewPictures/VMready.jpg)
