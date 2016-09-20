@@ -1,5 +1,4 @@
-# ATLAS data & tools virtual machine documentation
-
+# Virtual machine book
 
 You will learn how to download and prepare a virtual machine to run on your computer.  This will then enable you to take a look at ATLAS data.
 
