@@ -41,7 +41,7 @@ For **File location and size** you will need to select a maximum size from the v
 
 After those steps, your **VM** is created (an empty VM)
 
-Your VM-SL6 configuration should look like this:
+and should look like this:
 
 
 ![](NewPictures/VMready.jpg)
