@@ -1,6 +1,6 @@
 # Get and Run the Virtual Machine
 
-Our virtual machines contains Scientific Linux 6.7 ( **VM-SL6.7** ) plus ATLAS Data and Tools software and samples.  This is bundled up in a vdi file (Virtual Desktop Infrastructure).
+Our virtual machines contain Scientific Linux 6.7 ( **VM-SL6.7** ) plus ATLAS Data and Tools software and samples.  This is bundled up in a VDI  (Virtual Desktop Infrastructure) file.
 You need to have at least  **30GB** of space on your host machine.
 
 Select the black 'Download' button at the top right of the page, then select 'Virtual Machines'.  
@@ -34,7 +34,7 @@ The **VDI** file might be unzipped automatically.
 
 ScientificLinux67\_ATLAS\_Outreach\_DataAndTools\_July\_2016-size\_[S/M/N/mu].vdi 
 
-If not, you can select the option of opening the zipped file (file ending .vdi.gz) which will unzip it.
+If not, you can select the option of opening the zipped file ( file ending .vdi.gz ) which will unzip it.
 
 ![](NewPictures/DownloadVMS.jpg)
 
@@ -49,7 +49,7 @@ You have successfully got your Virtual Machine.
 
 To run the Virtual Machine you need to add the VDI file to your VirtualBox machine (your empty Virtual Machine you created in the previous chapter)
 
-Click **Settings**, the " _gear_  " icon at the top-left of your VirtualBox window 
+Click **Settings**, the "gear" icon at the top-left of your VirtualBox window 
 
 
 ![](NewPictures/Settings.jpg)
@@ -69,13 +69,13 @@ Select: **Choose Virtual Hard Disk File...**
 
 ![](NewPictures/VirtualHardDisk.jpg)
 
-Browse for the recently downloaded (and uncompressed) **VDI** file of the **VM-SL6.7** :
+Browse for your recently downloaded (and uncompressed) **VDI** file of the **VM-SL6.7** :
 
 
 ![](NewPictures/Choosevdi.jpg)
 
 Open.
-Now say **OK** to the **Settings** window and **Start** your **VM-SL6.7**   
+Now say **OK** to the **Settings** window and start your **VM-SL6.7** by clicking on the green **Start** arrow.    
 
 ![](NewPictures/Start.jpg)
 
