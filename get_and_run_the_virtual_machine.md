@@ -34,7 +34,7 @@ The **VDI** file might be unzipped automatically.
 
 ScientificLinux67\_ATLAS\_Outreach\_DataAndTools\_July\_2016-size\_[S/M/N/mu].vdi 
 
-If not, you can select the option of opening the .vdi.gz file, which will unzip the file.
+If not, you can select the option of opening the zipped file (file ending .vdi.gz) which will unzip it.
 
 ![](NewPictures/DownloadVMS.jpg)
 
@@ -46,6 +46,8 @@ You have successfully got your Virtual Machine.
 
 
 ## Adding the VDI file to the VirtualBox machine: 
+
+To run the Virtual Machine you need to add the VDI file to your VirtualBox machine.
 
 Click **Settings**, the " _gear_  " icon at the top-left of your VirtualBox window 
 
