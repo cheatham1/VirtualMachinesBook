@@ -47,7 +47,7 @@ You have successfully got your Virtual Machine.
 
 ## Adding the VDI file to the VirtualBox machine: 
 
-To run the Virtual Machine you need to add the VDI file to your VirtualBox machine.
+To run the Virtual Machine you need to add the VDI file to your VirtualBox machine (your empty Virtual Machine you created in the previous chapter)
 
 Click **Settings**, the " _gear_  " icon at the top-left of your VirtualBox window 
 
