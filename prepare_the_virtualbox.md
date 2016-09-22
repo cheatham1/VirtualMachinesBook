@@ -12,7 +12,7 @@ Now let's create a new VM entity by clicking **New** on the left corner:
    
 ![](pictures/Screenshot_2016-02-12_17.21.28_a.png)
    
-Select Type "Linux" and Version "Linux 2.6/ 3.x / 4.x (64-bit)" from the drop-down menus.  Then "Continue".
+Select Type "Linux" (irrelevant of what type of machine you are running on) and Version "Linux 2.6/ 3.x / 4.x (64-bit)" from the drop-down menus.  Then "Continue".
 
 ![](NewPictures/NameOpSys.jpg)
 
