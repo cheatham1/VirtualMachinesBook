@@ -1,4 +1,4 @@
-# Virtual machine book
+# Virtual machine book for VM versions M, L and N
 
 You will learn how to download and prepare a virtual machine to run on your computer.  This will then enable you to take a look at ATLAS data.
 
