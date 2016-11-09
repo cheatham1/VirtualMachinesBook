@@ -14,25 +14,25 @@ Or just directly select Virtual Machines.
 
 There are four versions of Virtual Machine (VM):  
 
-**VM-M** 
-: M for “medium”, it has a compressed size of ~10.6GB, and a uncompressed size of ~22GB. This contains a complete Scientific Linux OS 6.7, important software dependencies, the latest version of ROOT v6-07-06 and the **complete set of datasets** (data and simulated Monte Carlo) of the ATLAS release.
+**VM Version M** 
+: M for “Medium”, it has a compressed size of ~4.6GB, and a uncompressed size of ~11GB. This contains a complete Scientific Linux OS 6.7, important software dependencies and the latest version of ROOT v6-07-06
 
-**VM-S** 
-: S for “small”, it has a compressed size of ~4.6GB, and a uncompressed size of ~11GB. This contains a complete Scientific Linux OS 6.7, important software dependencies and the latest version of ROOT v6-07-06
+**VM Version L** 
+: L for “Large”, it has a compressed size of ~10.6GB, and a uncompressed size of ~22GB. This contains a complete Scientific Linux OS 6.7, important software dependencies, the latest version of ROOT v6-07-06 and the **complete set of datasets** (real and simulated data) of the ATLAS release.
 
-**VM-N**
+**VM Version N**
 : N for “NET”, it has a compressed size of ~5.2GB, and a uncompressed size of ~17GB. This contains a complete Scientific Linux OS 6.7, important software dependencies and CVMFS access to public software repositories. We will reduce its size by ~40% in the coming weeks.
 
-**VM-mu**
+**VM Version mu**
 : mu for “micro” with unknown sizes yet, but much smaller that VM-N or VM-S. It will contain a Linux distribution with not graphical user interface. It will have important software dependencies and the latest version of ROOT v6*
 
-Select the VM Version appropriate to your needs.  **VM Version M is recommended, if you have the space**, as it contains all the software and datasets.
+Select the VM Version appropriate to your needs.  **VM Version L is recommended, if you have the space**, as it contains all the software and datasets.
 
 **Download will take some time.  Please be patient.**
 
 The **VDI** file might be unzipped automatically.
 
-ScientificLinux67\_ATLAS\_Outreach\_DataAndTools\_July\_2016-size\_[S/M/N/mu].vdi 
+ScientificLinux67\_ATLAS\_Outreach\_DataAndTools\_July\_2016-size\_[M/L/N/mu].vdi 
 
 If not, you can select the option of opening the zipped file ( file ending .vdi.gz ) which will unzip it.
 
