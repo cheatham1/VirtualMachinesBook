@@ -73,7 +73,7 @@ To quit root
 Go to the chapter "**take a look at the data**" in the **Software Book**
 and follow the instructions, starting with 
 
-    python RunScript.py -a TTbarAnalysis -s "WW, WZ"
+    python RunScript.py -a TTbarAnalysis -s "WZ"
                 
 ![](NewPictures/RunScript.jpg)
 
