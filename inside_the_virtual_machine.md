@@ -1,4 +1,4 @@
-# Inside The Virtual Machine
+# Inside the Virtual Machine
 
 You will get this presentation below, where the **only bookmark** is the tutorial that you are doing now! 
 
