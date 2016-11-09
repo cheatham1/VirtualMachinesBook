@@ -1,6 +1,6 @@
-# Get and Run the Virtual Machine
+# Get and Run a Virtual Machine
 
-Our virtual machines contain Scientific Linux 6.7 ( **VM-SL6.7** ) plus ATLAS Data and Tools software and samples.  This is bundled up in a VDI  (Virtual Desktop Infrastructure) file.
+Our Virtual Machines contain Scientific Linux 6.7 ( **VM-SL6.7** ) plus ATLAS Data and Tools software and samples.  This is bundled up in a VDI  (Virtual Desktop Infrastructure) file.
 You need to have at least  **30GB** of space on your host machine.
 
 Select the black 'Download' button at the top right of the page, then select 'Virtual Machines'.  
@@ -12,24 +12,34 @@ Or just directly select Virtual Machines.
 
 ![](NewPictures/VirtualMachineSelected.png)
 
-There are four versions of Virtual Machine (VM):  
+There are four versions of Virtual Machine (VM).  Select the version appropriate to your needs.  **VM Version L is recommended, if you have the space**, as it contains all the software and datasets. 
+
+
+## The Virtual Machines
 
 **VM Version M** 
-: M for “Medium”, it has a compressed size of ~4.6GB, and a uncompressed size of ~11GB. This contains a complete Scientific Linux OS 6.7, important software dependencies and the latest version of ROOT v6-07-06
+
+M for Medium, it has a compressed size of ~4.6GB, and a uncompressed size of ~11GB. This contains a complete Scientific Linux OS 6.7, important software dependencies and the latest version of ROOT v6-07-06
 
 **VM Version L** 
-: L for “Large”, it has a compressed size of ~10.6GB, and a uncompressed size of ~22GB. This contains a complete Scientific Linux OS 6.7, important software dependencies, the latest version of ROOT v6-07-06 and the **complete set of datasets** (real and simulated data) of the ATLAS release.
+
+L for Large, it has a compressed size of ~10.6GB, and a uncompressed size of ~22GB. This contains a complete Scientific Linux OS 6.7, important software dependencies, the latest version of ROOT v6-07-06 and the **complete set of datasets** (real and simulated data) of the ATLAS release.
 
 **VM Version N**
-: N for “NET”, it has a compressed size of ~5.2GB, and a uncompressed size of ~17GB. This contains a complete Scientific Linux OS 6.7, important software dependencies and CVMFS access to public software repositories. We will reduce its size by ~40% in the coming weeks.
 
-**VM Version mu**
-: mu for “micro” with unknown sizes yet, but much smaller that VM-N or VM-S. It will contain a Linux distribution with not graphical user interface. It will have important software dependencies and the latest version of ROOT v6*
+N for NET, it has a compressed size of ~5.2GB, and a uncompressed size of ~17GB. This contains a complete Scientific Linux OS 6.7, important software dependencies and CVMFS access to public software repositories. We will reduce its size by ~40% in the coming weeks.
 
-Select the VM Version appropriate to your needs.  **VM Version L is recommended, if you have the space**, as it contains all the software and datasets.
+**VM Version $$\mu$$**
+
+$$\mu$$ for micro with unknown sizes yet, but much smaller that VM-N or VM-S. It will contain a Linux distribution with not graphical user interface. It will have important software dependencies and the latest version of ROOT v6*
+
+## Download your Virtual Machine
+
+Select and download the Virtual Machine that suits you.  VM Version L is recommended, if you have the space, as it contains all the software and datasets.
 
 **Download will take some time.  Please be patient.**
 
+Your Virtual Machine will be downloaded as a vdi file.
 The **VDI** file might be unzipped automatically.
 
 ScientificLinux67\_ATLAS\_Outreach\_DataAndTools\_July\_2016-size\_[M/L/N/mu].vdi 
