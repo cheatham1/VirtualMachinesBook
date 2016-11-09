@@ -11,5 +11,11 @@ Your physical computer will be the "host", while the virtual machine will be a "
 A virtual machine allows an unmodified operating system with all of its installed software to run in a special environment, on top of your existing operating system. 
 
 
+There are two steps to setup your environment
+1. Download and install VirtualBox
+2. Download and install a Virtual Machine.
+
+
+
 ![](pictures/opendataLogo.jpg)
 
