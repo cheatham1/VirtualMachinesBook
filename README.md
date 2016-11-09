@@ -13,7 +13,7 @@ A virtual machine allows an unmodified operating system with all of its installe
 
 There are two steps to setup your environment
 1. Get and prepare VirtualBox.  This is explained in the next two chapters.
-2. Get and run a Virtual Machine.  This is explained in the following two chapters.
+2. Get and run a virtual machine.  This is explained in the following two chapters.
 
 
 
