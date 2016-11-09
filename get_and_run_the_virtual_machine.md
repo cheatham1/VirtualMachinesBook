@@ -1,6 +1,6 @@
-# Get and Run a Virtual Machine
+# Get and Run a virtual machine
 
-Our Virtual Machines contain Scientific Linux 6.7 ( **VM-SL6.7** ) plus ATLAS Data and Tools software and samples.  This is bundled up in a VDI  (Virtual Desktop Infrastructure) file.
+Our virtual machines contain Scientific Linux 6.7 ( **VM-SL6.7** ) plus ATLAS Data and Tools software and samples.  This is bundled up in a VDI  (Virtual Desktop Infrastructure) file.
 You need to have at least  **30GB** of space on your host machine.
 
 Select the black 'Download' button at the top right of the page, then select 'Virtual Machines'.  
@@ -8,14 +8,14 @@ Select the black 'Download' button at the top right of the page, then select 'Vi
 <img src="./pictures/Download.jpg" width="100" />
 <img src="./pictures/VMbutton.jpg" width="150" /> 
 
-Or just directly select Virtual Machines.
+Or just directly select 'Virtual Machines'.
 
 ![](NewPictures/VirtualMachineSelected.png)
 
-There are four versions of Virtual Machine (VM).  Select the version appropriate to your needs.  **VM Version L is recommended, if you have the space**, as it contains all the software and datasets. 
+There are four versions of virtual machines.  Select the version appropriate to your needs.  **VM Version L is recommended, if you have the space**, as it contains all the software and datasets. 
 
 
-## The Virtual Machines
+## The virtual machines
 
 **VM Version M** 
 
@@ -33,13 +33,13 @@ N for NET, it has a compressed size of ~5.2GB, and a uncompressed size of ~17GB.
 
 $$\mu$$ for micro with unknown sizes yet, but much smaller that VM-N or VM-S. It will contain a Linux distribution with not graphical user interface. It will have important software dependencies and the latest version of ROOT v6*
 
-## Download your Virtual Machine
+## Download your virtual machine
 
-Select and download the Virtual Machine that suits you.  VM Version L is recommended, if you have the space, as it contains all the software and datasets.
+Select and download the virtual machine that suits you.  VM Version L is recommended, if you have the space, as it contains all the software and datasets.
 
 **Download will take some time.  Please be patient.**
 
-Your Virtual Machine will be downloaded as a vdi file.
+Your virtual machine will be downloaded as a vdi file.
 The **VDI** file might be unzipped automatically.
 
 ScientificLinux67\_ATLAS\_Outreach\_DataAndTools\_July\_2016-size\_[M/L/N/mu].vdi 
@@ -49,7 +49,7 @@ If not, you can select the option of opening the zipped file ( file ending .vdi.
 ![](NewPictures/DownloadVMS.jpg)
 
 
-You have successfully got your Virtual Machine.
+You have successfully got your virtual machine.
 
 ![](NewPictures/orangeVDI2.png)
 
@@ -57,7 +57,7 @@ You have successfully got your Virtual Machine.
 
 ## Adding the VDI file to the VirtualBox machine: 
 
-To run the Virtual Machine you need to add the VDI file to your VirtualBox machine (your empty Virtual Machine you created in the previous chapter)
+To run the virtual machine you need to add the VDI file to your VirtualBox machine (your empty virtual machine you created in the previous chapter)
 
 Click **Settings**, the "gear" icon at the top-left of your VirtualBox window 
 
