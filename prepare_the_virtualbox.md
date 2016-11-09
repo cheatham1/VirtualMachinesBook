@@ -1,13 +1,13 @@
 # Prepare the VirtualBox
 
-## Create a Shell for the Virtual Machine (VM)
+## Create a Shell for the virtual machine (VM)
 
 Look for the VirtualBox icon in your Applications (folder).  Double click to get the main interface of VirtualBox:
 
 <img src="./pictures/Screenshot_2015-02-02_22.38.01.png" width="771" height="639" />
   
    
-Now let's create a new VM entity by clicking **New** on the left corner:
+Now let's create a new virtual machine entity by clicking **New** on the left corner:
 
    
 ![](pictures/Screenshot_2016-02-12_17.21.28_a.png)
@@ -39,7 +39,7 @@ For **File location and size** you will need to select a maximum size from the v
 
 ![](NewPictures/FileLocSize.jpg)
 
-After those steps, your **VM** is created (an empty VM)
+After those steps, your **virtual machine** is created (an empty virtual machine)
 
 and should look like this:
 
