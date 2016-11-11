@@ -2,9 +2,9 @@
 
 You will learn how to download and prepare a virtual machine to run on your computer.  This will then enable you to take a look at ATLAS data.
 
-If you are running a lab course for undergraduates, the medium version of the ATLAS open data virtual machines is a good choice.
+If you are running a lab course for undergraduates, the large version of the ATLAS open data virtual machines is a good choice.
 
-By choosing the medium sized virtual machine, you have access to all the ATLAS open data.  But be warned, it will probably take over an hour to download.
+By choosing the large sized virtual machine, you have access to all the ATLAS open data.  But be warned, it will probably take over an hour to download.
 
 
 ## What is a virtual machine ?
