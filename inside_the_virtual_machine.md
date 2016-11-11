@@ -25,8 +25,6 @@ Here you will see : Analysis, Configurations, Input, Output, Plotting and result
 
 ![](NewPictures/terminal.jpg)
 
-
-
 ## Take a look at the datasets.
 
 Data and simulated data root ntuples are in the Input folder.
@@ -38,7 +36,6 @@ Take a look:
 ```cd Input```
 
 ```ls Data```
-
 
 Launch root, attaching your chosen dataset
 
@@ -62,12 +59,9 @@ To quit root
 
    Use Dropbox (included) or Google Drive Client to share files between the VM-SL6 and your host OS:
     
- 
 ![](./pictures/Screenshot_2015-02-03_16.32.37.png)    
     ![](./pictures/Screenshot_2015-02-03_16.34.04.png)
    
-
-
 ## Now you are ready to start your analysis of the data.
 
 Go to the [Software Book](https://cheatham1.gitbooks.io/openatlasdatatools/content/take_a_look_at_the_data.html) to learn how to run and produce plots.
