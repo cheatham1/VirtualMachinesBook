@@ -1,11 +1,20 @@
+
+# Introduction
+
+We have provided the ATLAS opendata datasets and software in a variety of formats.  You choose how you want to use them:
+
+* If you want to invest more time, or are setting up a lab for students, then you can use the **large virtual machine** which contains all the data.  This takes 1-2 hours to download and setup.  Read on.
+
+* If you want to have a quick look at the data, not investing too much time, you can use the **small virtual machine**, which contains 10% of the data.  This takes about 15 minutes to download and setup.  [Go to the Software Book to learn how.](https://cheatham1.gitbooks.io/openatlasdatatools/content/gettingstarted.html) 
+
+* If you are a physicist, it is likely you already have ROOT installed, so you can download the [software](http://atlas-opendata.web.cern.ch/atlas-opendata/extendedanalysis/software.php) **and** [datasets](http://atlas-opendata.web.cern.ch/atlas-opendata/extendedanalysis/datasets.php) separately if you wish.
+
+
 # Virtual machine book for VM versions M, L and N
 
 You will learn how to download and prepare a virtual machine to run on your computer.  This will then enable you to take a look at ATLAS data.
 
-If you are running a lab course for undergraduates, the large version of the ATLAS open data virtual machines is a good choice.
-
-By choosing the large sized virtual machine, you have access to all the ATLAS open data.  But be warned, it will probably take over an hour to download.
-
+By choosing the large sized virtual machine, you have access to all the ATLAS open data.  
 
 ## What is a virtual machine ?
 
