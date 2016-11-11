@@ -1,6 +1,6 @@
 # Get the VirtualBox
 
-First, you need to download abd install VirtualBox.
+First, you need to download and install VirtualBox.
 Use the VirtualBox website to download the software
 
 <a href="https://www.virtualbox.org/" target="_blank"> Go to the VirtualBox website</a>
