@@ -70,11 +70,5 @@ To quit root
 
 ## Now you are ready to start your analysis of the data.
 
-To check everything is setup correctly, enter into the command line 
-
-    python RunScript.py -a TTbarAnalysis -s "WW,WZ"
-
-This runs the code called 'TTbarAnalysis' with the WW and WZ data samples.
-
-Now go to the [Software Book](https://cheatham1.gitbooks.io/openatlasdatatools/content/take_a_look_at_the_data.html) to learn how to run and produce plots.
+Go to the [Software Book](https://cheatham1.gitbooks.io/openatlasdatatools/content/take_a_look_at_the_data.html) to learn how to run and produce plots.
 
