@@ -1,6 +1,6 @@
 # Get and Run a virtual machine
 
-Our virtual machines contain Scientific Linux 6.7 ( **VM-SL6.7** ) plus ATLAS Data and Tools software and samples.  This is bundled up in a VDI  (Virtual Desktop Infrastructure) file.
+Our medium and large virtual machines contain Scientific Linux 6.7 ( **VM-SL6.7** ) plus ATLAS Data and Tools software and samples.  This is bundled up in a VDI  (Virtual Desktop Infrastructure) file.
 You need to have at least  **30GB** of space on your host machine.
 
 Select the black 'Download' button at the top right of the page, then select 'Virtual Machines'.  
@@ -35,7 +35,7 @@ $$\mu$$ for micro with unknown sizes yet, but much smaller that VM-N or VM-S. It
 
 ## Download your virtual machine
 
-Select and download the virtual machine that suits you.  VM Version L is recommended, if you have the space, as it contains all the software and datasets.
+Select and download the virtual machine that suits you.  VM Version **L** is recommended, if you have the space, as it contains all the software and datasets.
 
 **Download will take some time.  Please be patient.**
 
