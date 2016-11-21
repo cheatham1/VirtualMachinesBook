@@ -5,7 +5,7 @@ You have a choice of virtual machines:
 
 * If you want to have a quick look at the data, not investing too much time, you can use the **small virtual machine**, which contains 10% of the data.  This takes about 15 minutes to download and setup.  [Go to the Software Book to learn how.](https://cheatham1.gitbooks.io/openatlasdatatools/content/gettingstarted.html) 
 
-* If you want to invest more time, or are setting up a lab for students, then you can use the **large virtual machine** which contains all the data.  This takes 1-2 hours to download and setup.  Read on.
+* If you want to invest more time, or are setting up a lab for students, we suggest you use the **large virtual machine** which contains all the data.  This takes 1-2 hours to download and setup.  Read on.
 
 # Virtual machine book for VM versions M, L and N
 
