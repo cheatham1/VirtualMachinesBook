@@ -7,6 +7,8 @@ You have a choice of virtual machines:
 
 * If you want to invest more time, or are setting up a lab for students, we suggest you use the **large virtual machine** which contains all the data.  This takes 1-2 hours to download and setup.  Read on.
 
+To learn more about the data and analyses we have prepared for you, take a look at the [Software Book](https://cheatham1.gitbooks.io/openatlasdatatools/content)
+
 # Virtual machine book for VM versions M, L and N
 
 You will learn how to download and prepare a virtual machine to run on your computer.  This will then enable you to take a look at ATLAS data.
