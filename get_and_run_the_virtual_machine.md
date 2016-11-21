@@ -3,7 +3,7 @@
 Our medium and large virtual machines contain Scientific Linux 6.7 ( **VM-SL6.7** ) plus ATLAS Data and Tools software and samples.  This is bundled up in a VDI  (Virtual Desktop Infrastructure) file.
 You need to have at least  **30GB** of space on your host machine.
 
-Select the black 'Download' button at the top right of the page, then select 'Virtual Machines'.  
+Select the black **Download** button at the top right of the page, then select **Virtual Machines**.  
 
 <img src="./pictures/Download.jpg" width="100" />
 <img src="./pictures/VMbutton.jpg" width="150" /> 
@@ -31,11 +31,11 @@ N for NET, it has a compressed size of ~5.2GB, and a uncompressed size of ~17GB.
 
 **VM Version $$\mu$$**
 
-$$\mu$$ for micro with unknown sizes yet, but much smaller that VM-N or VM-S. It will contain a Linux distribution with not graphical user interface. It will have important software dependencies and the latest version of ROOT v6*
+$$\mu$$ for micro with unknown sizes yet, but much smaller that VM-N or VM-S. It will contain a Linux distribution without a graphical user interface. It will have important software dependencies and the latest version of ROOT v6*
 
 ## Download your virtual machine
 
-Select and download the virtual machine that suits you.  VM Version **L** is recommended, if you have the space, as it contains all the software and datasets.
+Select and download the virtual machine that suits you.  **VM Version L** is recommended, if you have the space, as it contains all the software and datasets.
 
 **Download will take some time.  Please be patient.**
 
@@ -74,18 +74,20 @@ Now in the new pop-up window, go to **Storage** ( 4th option from the left)
 Select your .vdi
 
 You will then see on the right **Hard Disk** and a small icon of a hard disk.  If you click on the hard disk icon, the system will give you options. 
-Select: **Choose Virtual Hard Disk File...**
+Select **Choose Virtual Hard Disk File...**
 
 
 ![](NewPictures/VirtualHardDisk.jpg)
 
-Browse for your recently downloaded (and uncompressed) **VDI** file of the **VM-SL6.7** :
+Browse for your recently downloaded (and uncompressed) **VDI** file.
 
 
 ![](NewPictures/Choosevdi.jpg)
 
-Open.
-Now say **OK** to the **Settings** window and start your **VM-SL6.7** by clicking on the green **Start** arrow.    
+**Open**
+
+
+Now say **OK** to the **Settings** window and start your **ATLAS_DataAndTools VM** by clicking on the green **Start** arrow.    
 
 ![](NewPictures/Start.jpg)
 
@@ -98,7 +100,7 @@ You will see something like this below
 
 ![](NewPictures/VM-SL6.jpg)
 
-Now login to the **VM-SL6** 
+Now login
 
 with username = **adminuser** and password = **adminuser**
 
