@@ -3,16 +3,11 @@
 Our medium and large virtual machines contain Scientific Linux 6.7 ( **VM-SL6.7** ) plus ATLAS Data and Tools software and samples.  This is bundled up in a VDI  (Virtual Desktop Infrastructure) file.
 You need to have at least  **30GB** of space on your host machine.
 
-Select the black **Download** button at the top right of the page, then select **Virtual Machines**.  
+Select **Virtual Machines**.  
 
-<img src="./pictures/Download.jpg" width="100" />
-<img src="./pictures/VMbutton.jpg" width="150" /> 
+[![](pictures/VMbutton.jpg)](http://opendata.atlas.cern/extendedanalysis/vm-toolbox.php)
 
-Or just directly select 'Virtual Machines'.
-
-![](NewPictures/VirtualMachineSelected.png)
-
-There are four versions of virtual machines.  Select the version appropriate to your needs.  **VM Version L is recommended, if you have the space**, as it contains all the software and datasets. 
+There are several versions of the virtual machine.  Select the version appropriate to your needs.  **VM Version L is recommended, if you have the space**, as it contains all the software and datasets. 
 
 
 ## The virtual machines
