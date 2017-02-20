@@ -4,7 +4,7 @@ You will get this presentation below, where the **only bookmark** is the tutoria
 
 ![](NewPictures/VMrunning.jpg)
 
-Open a new **Terminal** \( the icon is at the top, shown here circled in red\) and type **ls**. 
+Open a new **Terminal** \( the icon is at the top, shown here circled in red\) and type **ls**.
 
 You will get the list of files: ATLAS, Desktop, Documents, Downloads, Dropbox, Public, README and setup\_ROOT.sh
 
@@ -16,7 +16,7 @@ Go into the ATLAS/analysis folder
 
 Run the setupROOT script.
 
-`source setupROOT.sh`
+`source setup\_ROOT.sh`
 
 Go into the atlas-outreach-data-tools-framework-1.0 folder
 
