@@ -16,7 +16,7 @@ Go into the ATLAS/analysis folder
 
 Run the setupROOT script.
 
-`source setup\_ROOT.sh`
+`source setup_ROOT.sh`
 
 Go into the atlas-outreach-data-tools-framework-1.0 folder
 
