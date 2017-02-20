@@ -14,7 +14,7 @@ Go into the ATLAS/analysis folder
 
 `cd ATLAS/analysis`
 
-Run the setupROOT script.
+Run the script to setup ROOT.
 
 `source setup_ROOT.sh`
 
